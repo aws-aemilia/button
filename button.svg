@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="270px" height="50px" viewBox="0 0 270 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Amplify button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Amplify-button">
+            <rect id="BG" fill="#FF9900" fill-rule="nonzero" x="0" y="0" width="270" height="50" rx="2"></rect>
+            <g id="Group" transform="translate(15.000000, 16.000000)" fill="#FFFFFF">
+                <g id="6:20:7:20" transform="translate(31.000000, 1.000000)" font-family="AmazonEmber-Bold, Amazon Ember" font-size="14" font-weight="bold">
+                    <text id="DEPLOY-TO-AMPLIFY-CO">
+                        <tspan x="0" y="14">DEPLOY TO AMPLIFY CONSOLE</tspan>
+                    </text>
+                </g>
+                <g id="Amplify-Logo-White" fill-rule="nonzero">
+                    <path d="M5.22273611,14.9361702 L11.982739,14.9361702 L13.7142857,18 L13.6655032,18 L0,18 L4.81540198,9.61126028 L6.8333681,6.09842466 L8.56590672,9.11650686 L5.22273611,14.9361702 Z M7.74388792,4.5098137 L9.40738145,1.61206027 L18.821803,17.9999507 L15.4877882,17.9999507 L7.74388792,4.5098137 Z M10.3332638,0 L13.6628401,0 L24,18 L20.6662316,18 L10.3332638,0 Z" id="Fill-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
